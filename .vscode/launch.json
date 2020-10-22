@@ -7,7 +7,8 @@
         {
             "name": "Dart & Flutter",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "program": "C:\Users\Timo\Documents\My Documents\Coding\Dart.dart-test.dart"
         }
     ]
 }
